@@ -2,3 +2,5 @@
 * text=auto
 Imersao-Python-Hastag/* filter=lfs diff=lfs merge=lfs -text
 Imersao-Python-Hashtag/* filter=lfs diff=lfs merge=lfs -text
+*.ipynb filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
